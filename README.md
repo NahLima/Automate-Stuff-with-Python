@@ -1,6 +1,6 @@
 # automate-the-boring-stuff-projects
 
-Project solutions for [automate the boring stuff with python by Al Sweigart](https://automatetheboringstuff.com)  -- 
+Project solutions for [automate the boring stuff with python by Al Sweigart](https://automatetheboringstuff.com)  
 
 * Chapter 3 - Functions
     * [The Collatz Sequence]
@@ -39,7 +39,7 @@ Project solutions for [automate the boring stuff with python by Al Sweigart](htt
     * [Link Verification]
 
 * Chapter 12 – Working with Excel Spreadsheets
-    * [Multiplication Table Maker]( )
+    * [Multiplication Table Maker]
     * [Blank Row Inserter]
     * [Spreadsheet Cell Inverter]
     * [Text Files To Spreadsheet]
