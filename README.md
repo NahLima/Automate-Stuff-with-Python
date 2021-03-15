@@ -1,36 +1,73 @@
-# Automate-Stuff-with-Python
-#estudos
+# automate-the-boring-stuff-projects
 
-## Tips
+Project solutions for [automate the boring stuff with python by Al Sweigart](https://automatetheboringstuff.com)  -- 
 
-Expression = values + operators 
-````
->>> 2+2
-4
->>> 3*7
-21 
->>> 3x 7 
-SyntaxError: invalid syntax 
-````
+* Chapter 3 - Functions
+    * [The Collatz Sequence]
 
-Order of Operations: 
-1) Parentheses
-2) Multiplication|Division 
-3) Addition|Subtraction
+* Chapter 4 - Lists
+    * [Comma Code]
+    * [Character Picture Grid]
 
-Intenger "ints" = 10
+* Chapter 5 – Dictionaries and Structuring Data
+    * [Fantasy Game Inventory]
 
-Floating point "floats" = 10.5
+* Chapter 6 – Manipulating Strings
+    * [Table Printer]
 
-String = "abcd"
+* Chapter 7 – Pattern Matching with Regular Expressions
+    * [Strong Pasword Detection]
+    * [Regex Version Of Strip]
 
-String Replication =  "Alice"+ "Bob"  --> "AliceBob"
+* Chapter 8 – Reading and Writing Files
+    * [Extending The MultiClipboard]
+    * [Mad Libs]
+    * [Regex Search]
 
-Variables: spam = 42 
+* Chapter 9 – Organizing Files
+    * [Selective Copy]
+    * [Deleting Unneeded Files]
+    * [Filling In The Gaps]
 
+* Chapter 10 – Debugging
+    * [Debugging Coin Toss]
 
+* Chapter 11 – Web Scraping
+    * [Command Line Emailer]
+    * [Image Site Downloader]
+    * [2048]
+    * [Link Verification]
 
-- The Boolean data type has only two values: True and False (both beginning with capital letters).
-Comparison operators compare two values and evaluate to a Boolean value: ==, !=, <, >, <=, >=
-== is a comparison operator, while = is the assignment operator for variables.
-Boolean operators (and, or, not) also evaluate to Boolean values.
+* Chapter 12 – Working with Excel Spreadsheets
+    * [Multiplication Table Maker]( )
+    * [Blank Row Inserter]
+    * [Spreadsheet Cell Inverter]
+    * [Text Files To Spreadsheet]
+    * [Spreadsheet To Text Files]
+
+* Chapter 13 – Working with PDF and Word Documents
+    * [PDF Paranoia]
+    * [Custom Invitations As Word Documents]
+    * [Brute-Force PDF Password Breaker]
+
+* Chapter 14 – Working with CSV Files and JSON Data
+    * [Excel-To-CSV Converter]
+
+* Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs
+    * [Prettified Stopwatch]
+    * [Scheduled Web Comic Downloader]
+
+* Chapter 16 – Sending Email and Text Messages
+    * [Random Chore Assignment Emailer]
+    * [Umbrella Reminder]
+    * [Auto Unsubscriber]
+    * [Controlling Your Computer Through Email]
+
+* Chapter 17 – Manipulating Images
+    * [Extending And Fixing The Chapter Project Programs]
+    * [Identifying Photo Folders On The Hard Drive]
+    * [Custom Seating Cards]
+
+* Chapter 18 – Controlling the Keyboard and Mouse with GUI Automation
+    * [Looking Busy]
+    * [Instant Messenger Bot]
